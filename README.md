@@ -4,6 +4,6 @@
  My journey begins as I start a new path at Age 49! Take the journey with me.//
  <html>
    <body>  
-     img src="C:\Users\comp\Pictures\Camera\20190503_133411.jpg"
+    <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
  </body>
  </html>
